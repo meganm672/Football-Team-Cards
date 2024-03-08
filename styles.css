@@ -7,10 +7,10 @@
 }
 
 :root {
-  --dark-grey: #0a0a23;
-  --light-grey: #f5f6f7;
+  --dark-grey: #401248;
+  --light-grey: #b2d0ef;
   --white: #ffffff;
-  --black: #000;
+  --dark-blue: #2321ab;
 }
 
 body {
@@ -51,11 +51,30 @@ footer {
 
 .player-card {
   background-color: var(--light-grey);
+  color: var(--dark-blue);
   padding: 1.3rem;
   margin: 1.2rem;
   width: 300px;
   border-radius: 15px;
 }
+
+footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 1em;
+    font-size: 1.2em;
+  }
+  
+  footer a {
+    color: #50cfd6;
+  }
+  
+  footer a:hover {
+    color: #fe4c7b;
+    font-size: 1.5em;
+  }
 
 @media (max-width: 768px) {
   .team-stats {
