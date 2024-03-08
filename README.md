@@ -3,7 +3,7 @@
 In this porject I used DOM manipulation, object destructuring, event handling, and data filtering. I also used switch statments, .map(), and Object.freeze().
 
 ## Deployed Site On GitHub Pages!
-[Football Team Cards](https://meganm672.github.io/football-team-cards/)
+[Football Team Cards](https://meganm672.github.io/Football-Team-Cards/)
 
 ## Access this turtoial to do yourself!
 This tutorial is part of freeCodeCamps Javascript Algorithims and Data Sctructures Course
